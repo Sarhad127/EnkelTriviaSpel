@@ -1,0 +1,4 @@
+Sun,Microsystems,Steve Jobs,Apple
+1989,1995,1972,1492
+Apple,Latte,Oak,Koffing
+Steve Jobs,Bill Gates,James Gosling,Mark Zuckerberg
